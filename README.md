@@ -3,7 +3,7 @@
 # WorkerThreads
 
 An example webpage with on client image resizing using Worker threads
-![alt text](https://github.com/worker-threads-example/blob/main/tools/readme/image.png?raw=true)
+![alt text](https://github.com/hoqua/worker-threads-example/blob/main/tools/readme/image.png?raw=true)
 
 ## How to run
 
